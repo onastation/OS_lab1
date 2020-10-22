@@ -22,18 +22,15 @@ mem_realloc(void* addr, size_t size)
 Примеры
 Код (аллокация) :
 https://user-images.githubusercontent.com/43548404/96850273-4ced4980-145f-11eb-92cc-63d98059852d.png
-
 Результат:
 https://user-images.githubusercontent.com/43548404/96850282-4e1e7680-145f-11eb-82c3-6c74d02c9fe5.png
 
 Код (освобождение):
 https://user-images.githubusercontent.com/43548404/96850287-4f4fa380-145f-11eb-9afb-81c56b4fddd1.png
-
 Результат:
 https://user-images.githubusercontent.com/43548404/96850290-5080d080-145f-11eb-8eac-b93188d47586.png
 
 Код(реаллокация):
 https://user-images.githubusercontent.com/43548404/96850295-51b1fd80-145f-11eb-8f0a-bed1824aa1d9.png
-
 Результат:
 https://user-images.githubusercontent.com/43548404/96850303-52e32a80-145f-11eb-8db7-da3cf383c891.png
